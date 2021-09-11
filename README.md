@@ -1,3 +1,3 @@
-# 12. 1617-RecetaDePam-con-Sticky-y-Fixed-Clase07
+# 12. 1617-Clase07-RecetaDePam-con-Sticky-y-Fixed
 
 Position: Sticky / Fixed
